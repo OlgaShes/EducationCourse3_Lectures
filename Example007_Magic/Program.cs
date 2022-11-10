@@ -4,7 +4,7 @@
 
 int xa = 1, ya = 1, 
     xb = 1, yb = 15,
-    xc = 30, yc = 20;
+    xc = 30, yc = 16;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
